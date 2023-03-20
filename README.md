@@ -1,5 +1,5 @@
 # 
-# SpringBootLiftNShift
+# SpringBoot Lift N Shift
 Michal A Uchmanowicz, Grand Canyon University, 2023
 
 *Java, Springboot, Thymeleaf, Docker, AWS, Google Cloud, Azure, Heroku*
