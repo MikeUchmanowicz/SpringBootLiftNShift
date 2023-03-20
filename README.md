@@ -20,3 +20,9 @@ I created a springboot application and hosted it within several clouds: AWS, Goo
 
 Springboot app running in Google Cloud
 
+<div align="">
+<img alt = "Springboot app running in Google Cloud" src="springbootAzure.png">
+</div>  
+
+Springboot app running in Azure
+
