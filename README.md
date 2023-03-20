@@ -29,7 +29,7 @@ Springboot app running in Google Cloud
 
 
 <div align="">
-<img alt = "Springboot app running in Azure" src="springbootAzure.png">
+<img alt = "Springboot app running in Azure" src="springbootAzure2.png">
 </div>  
 
 Springboot app running in Azure
