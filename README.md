@@ -56,4 +56,9 @@ Log tracing provided by the Tracer class and AOPConfiguration (in app) within th
 Log tracing provided by the Tracer class and AOPConfiguration (in app) within the Heroku Logs system.
 
 
+<div align="">
+<img alt = "Logs within a Heroku application are being drained to Loggly. This is a text search." src="springbootLoggly.png">
+</div>
+
+Logs within a Heroku application are being drained to Loggly. This is a text search.
 
