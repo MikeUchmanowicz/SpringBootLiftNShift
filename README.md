@@ -42,3 +42,18 @@ Springboot app running in Azure
 Springboot app running in Heroku, i was unable to get mysqlworkbench to connect as i was at maximum database connections.
 
 
+<div align="">
+<img alt = "Log tracing provided by the Tracer class and AOPConfiguration (in app) within the AWS Logs system." src="springbootAWSLogs.png">
+</div>  
+
+Log tracing provided by the Tracer class and AOPConfiguration (in app) within the AWS Logs system.
+
+
+<div align="">
+<img alt = "Log tracing provided by the Tracer class and AOPConfiguration (in app) within the Heroku Logs system." src="springbootHerokuLogs.png">
+</div>
+
+Log tracing provided by the Tracer class and AOPConfiguration (in app) within the Heroku Logs system.
+
+
+
