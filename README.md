@@ -11,7 +11,7 @@ All Documentation may not be posted within this repository due to it being part 
 ___
 
 
-I created a springboot application and hosted it within several clouds: AWS, Google Cloud, Azure, and Heroku. The cloud hosted springboot Application features a home page and a "pseudo-login", allowing for any input which will take the user to an orders page. The user can see all orders which are retrieved from a MySQL database hosted by the same cloud host.
+I created a springboot application and hosted it within several clouds: AWS, Google Cloud, Azure, and Heroku. The cloud hosted springboot Application features a home page and a "pseudo-login", allowing for any input which will take the user to an orders page. The user can see all orders which are retrieved from a MySQL database hosted by the same cloud host. The application features a tracer for logging. Within heroku, the logs are drained and output to loggly. An automated build and deployment was implemented within AWS.
 
 <div align="">
 <img alt = "Springboot app running in AWS" src="springbootAWS2.png">
@@ -62,3 +62,7 @@ Log tracing provided by the Tracer class and AOPConfiguration (in app) within th
 
 Logs within a Heroku application are being drained to Loggly. This is a text search.
 
+
+https://www.loom.com/share/527f79d313e943208873cb3991907c93
+
+Automated build and deployment via AWS codePipeline to Elastic Beanstalk. 
